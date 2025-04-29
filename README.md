@@ -1,6 +1,6 @@
 # Hi, I'm Lov Bernard 👋
 
-I'm the Founder & CEO of **AMLOV, LLC**, a FinTech infrastructure and compliance firm focused on building trusted, resilient systems for institutions, enterprises, and the public sector.
+I'm the Founder & CEO of **AMLOV®**, a FinTech infrastructure and compliance firm focused on building trusted, resilient systems for institutions, enterprises, and the public sector.
 
 At AMLOV, we're dedicated to bridging innovation and regulation, ensuring financial technology evolves without compromising integrity or security.
 
