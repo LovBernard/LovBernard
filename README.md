@@ -1,11 +1,18 @@
-Welcome to AMLOV-FinTech's GitHub Organization.
-We are building trusted infrastructure, compliance systems, and future-proof fintech solutions for institutions, enterprises, and the public sector.
-A few important guidelines as you begin collaborating with us:
-Security first: Please use two-factor authentication (2FA) on your GitHub account.
-Commit clarity: Clear commit messages help us stay auditable and efficient.
-Branch discipline: Feature branches should be used for all new work; master/main remains protected.
-Respect compliance: Our systems and code may interface with regulated environments. Handle data responsibly at all times.
-If you have any questions about workflows, policies, or the mission we're building toward, feel free to reach out directly.
-Thank you for being part of AMLOV’s journey. Let’s build something secure, resilient, and transformative.
-— Lov Bernard, Founder & CEO
-®AMLOV, LLC
+# Hi, I'm Lov Bernard 👋
+
+I'm the Founder & CEO of **AMLOV, LLC**, a FinTech infrastructure and compliance firm focused on building trusted, resilient systems for institutions, enterprises, and the public sector.
+
+At AMLOV, we're dedicated to bridging innovation and regulation, ensuring financial technology evolves without compromising integrity or security.
+
+## What I'm Working On
+- Leading AMLOV's initiatives in financial infrastructure and compliance modernization
+- Building secure, scalable solutions for regulated industries
+- Enabling trusted partnerships between private innovation and public sector standards
+
+## How to Connect
+- Organization: [AMLOV-FinTech GitHub](https://github.com/AMLOV-FinTech)
+- Coming soon: AMLOV's public website and resource hub
+
+---
+
+Thank you for visiting my profile — let's build the future of financial trust together.
